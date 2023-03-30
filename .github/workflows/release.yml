@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/com.fax.amazing-package/**
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "com.fax.amazing-package"
 
 jobs:
   build:
