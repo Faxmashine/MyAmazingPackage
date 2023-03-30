@@ -1,7 +1,7 @@
 name: Build Repo Listing
 
 env:
-  PackageName: com.vrchat.demo-template
+  PackageName: com.fax.amazing-package
   listPublishDirectory: Website
   pathToCi: ci
   
